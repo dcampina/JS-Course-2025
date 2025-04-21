@@ -1,0 +1,30 @@
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Node.js dependencies
+node_modules/
+package-lock.json
+npm-debug.log*
+
+# Env files (for API keys, etc.)
+.env
+.env.local
+
+# Build/output directories
+dist/
+build/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Backup files
+*.bak
+*.old
+
+# Coverage/test output (if you play with testing tools later)
+coverage/
